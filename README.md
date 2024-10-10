@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"><a href="https://www.youtube.com/@FerNando1314XR">Lista de mods para optimizacion<a/></a></h1>
 </div>
-
+(no completo, lo hire actualizando)
 [<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/%20UCK-AgU6luMFlKxKbWLRM-SA">](https://www.youtube.com/@FerNando1314XR)
 [<img alt="Twitch Status" src="https://img.shields.io/twitch/status/fernando1314xr">](https://www.twitch.tv/fernando1314xr)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fernandoxr24/)
